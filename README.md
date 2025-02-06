@@ -1,5 +1,3 @@
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML``   # Robotic Arm PD Control Simulation  This project simulates the movement of a robotic arm using a PD (Proportional-Derivative) controller. The system aims to reach a target position (in degrees) by adjusting the arm's angle over time. The simulation includes an animation showing the arm's movement and the error over time.  ## Requirements  - Python 3.x  - NumPy  - Matplotlib  You can install the necessary dependencies using `pip`:  ```bash  pip install numpy matplotlib   ``
-
 Overview
 --------
 
