@@ -69,11 +69,11 @@ The simulation produces:
 
 1.  An animation showing the robotic arm's movement from the start to the target position.
 
-![Error Over Time Image](/img/Error.png)
+[Watch Robotic Sim Video](/img/Sim.mp4)
     
 2.  A plot of the error over time, showing how the error decreases as the arm approaches the target position.
 
-[Robotic Sim Video](/img/Sim.mp4)
+![Error Over Time Image](/img/Error.png)
     
 
 Customization
